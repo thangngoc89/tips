@@ -8,9 +8,8 @@ Use [nvm](https://github.com/creationix/nvm) to manage node versions.
 Quick usuage:
 
 - Install NVM: https://github.com/creationix/nvm#install-script
-- Install Node ^6.0.0: `nvm install 6`
-- Install Node latest: `nvm install --lts=boron` (Boron is LTS code for Node 6)
-- View current version: `nvm version`
+- Install Node 8: `nvm install 8`
+- Alias Node 8 as default `nvm alias default 8`
 - Move global packages from one version to another: `// TODO`
 
 ## Avoid `sudo` to install global packages
