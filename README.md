@@ -15,4 +15,4 @@ Quick usuage:
 ## Avoid `sudo` to install global packages
 
 Because it breaks stuff for everyone using it. 
-I have no ideas how to configure it manually because I'm using nvm and you should do it too.
+See [this guide](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md) for how to configure it manually or just use nvm
